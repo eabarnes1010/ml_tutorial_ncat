@@ -12,7 +12,7 @@ Code is written in pytorch.
 
 This code was created to run in Google Colaboratory <https://colab.research.google.com/>. All you should need is a Google account.
 
-It was tested using the following environment.
+Unless otherwise stated, code was additionally tested on local machines using the following environment.
 ```
 conda create --name env-ml-tutorial-ncat python=3.12.0
 conda activate env-ml-tutorial-ncat
