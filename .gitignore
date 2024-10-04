@@ -1,0 +1,31 @@
+#Specific
+archive/
+standby/
+
+# General
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+__pycache__/
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+checkpoints/
+
+# Horrible Apple stuff
+# find . -name "Icon?" -print0 | xargs -0 rm -rf
+Icon*
+icon*
+.DS_Store
+.DS_*
+Icon
+*Icon*
+*Icon?*
+Icon?
+refs/Icon?
+*/Icon?
+*/*/Icon?
+*/*/*/Icon?
+*/*/*/*/Icon?
+
+
+
